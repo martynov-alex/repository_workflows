@@ -1,16 +1,18 @@
-# repository_workflows
+# Demo project with a set of workflows (GitHub Actions) and issue/PR templates
 
-A new Flutter project.
+This repository includes the following workflows:
 
-## Getting Started
+- one
+- two
 
-This project is a starting point for a Flutter application.
+And the following templates:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Issue templates:
+    - [Bug](.github/ISSUE_TEMPLATE/bug_report.md)
+    - [Doc update](.github/ISSUE_TEMPLATE/documentation_update.md)
+    - [Feature](.github/ISSUE_TEMPLATE/feature_request.md)
+2. Pull request templates:
+    - [Core pull request template](.github/PULL_REQUEST_TEMPLATE.md)
+    - [Bug](.github/PULL_REQUEST_TEMPLATE/bug_fix.md)
+    - [Doc update](.github/PULL_REQUEST_TEMPLATE/documentation_update.md)
+    - [Feature](.github/PULL_REQUEST_TEMPLATE/new_feature.md)
