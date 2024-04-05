@@ -1,0 +1,4 @@
+# Documentation: https://github.com/marketplace/actions/regex-issue-labeler
+
+critical:
+  - '(critical|urgent)'

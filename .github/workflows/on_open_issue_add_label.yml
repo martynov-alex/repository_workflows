@@ -1,0 +1,15 @@
+# Documentation: https://github.com/marketplace/actions/regex-issue-labeler
+name: Label new issue with
+
+on:
+  issues:
+    types:
+      - opened
+      - reopened
+
+jobs:
+  label_issue:
+    if: github.repository == 'martynov-alex/repository_workflows'
+    uses: martynov-alex/reusable_workflows/.github/workflows/label_issue.yml@main
+    secrets:
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
