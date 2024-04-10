@@ -1,5 +1,6 @@
 # Documentation: https://github.com/marketplace/actions/regex-issue-labeler
-name: Label new issue with
+# Config .github/issue_labeler_config.yml
+name: Label new issue with labeler
 
 on:
   issues:

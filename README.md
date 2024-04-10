@@ -2,8 +2,13 @@
 
 This repository includes the following workflows:
 
-- one
-- two
+- Add comment to Pyrus task on issue close
+- Add comment to Pyrus task on PR close
+- Create Pyrus task from new issue
+- Create Pyrus task from new PR
+- Label new issue with labeler
+- On pull request
+- Publish to pub.dev
 
 And the following templates:
 
