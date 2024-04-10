@@ -21,3 +21,11 @@ And the following templates:
     - [Bug](.github/PULL_REQUEST_TEMPLATE/bug_fix.md)
     - [Doc update](.github/PULL_REQUEST_TEMPLATE/documentation_update.md)
     - [Feature](.github/PULL_REQUEST_TEMPLATE/new_feature.md)
+
+Chapters below just for tests.
+
+## Description
+
+## Example
+
+## Installation
