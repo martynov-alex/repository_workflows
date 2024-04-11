@@ -8,7 +8,7 @@ This repository includes the following workflows:
 - Create Pyrus task from new PR
 - Label new issue with labeler
 - On pull request
-- Publish to pub.dev
+- Publish to pub.dev (for packages)
 
 And the following templates:
 
